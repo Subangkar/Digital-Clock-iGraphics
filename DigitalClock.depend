@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1462731595 source:c:\users\123\documents\workspace\codeblocks\digitalclock\imain.cpp
+	"iGraphics.h"
+
+1462711405 c:\users\123\documents\workspace\codeblocks\digitalclock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462714976 source:c:\users\123\documents\workspace\codeblocks\digitalclock\temp.cpp
+	"iGraphics.h"
+
+1463067363 source:s:\user\downloads\documents\level - 1 , term-1\@sessionals\cse 102\offline_2016-05-02\digitalclock\imain.cpp
+	"iGraphics.h"
+
+1462711405 s:\user\downloads\documents\level - 1 , term-1\@sessionals\cse 102\offline_2016-05-02\digitalclock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
